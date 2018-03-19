@@ -228,3 +228,10 @@ prm-collection-navigation-breadcrumbs-item .md-button.button-as-link.link-alt-co
 prm-collection-gallery-header .collection-header-inner.has-backdrop-image {
     color: #FAFAFA;
 }
+
+
+/* Fix bug with section highlight on mobile */
+
+primo-explore.__xs .full-view-section-content::after {
+    left: -1em;
+}
