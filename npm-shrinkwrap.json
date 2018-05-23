@@ -7,6 +7,11 @@
       "from": "bclibraries/primo-explore-bc-header",
       "resolved": "git://github.com/bclibraries/primo-explore-bc-header.git#ce6779ed5221fce0566b5f68c33ec0c431666b05"
     },
+    "primo-explore-bc-permalink": {
+      "version": "0.0.1",
+      "from": "git+ssh://git@git.bc.edu:7999/bcl/primo-explore-bc-permalink.git",
+      "resolved": "git+ssh://git@git.bc.edu:7999/bcl/primo-explore-bc-permalink.git#b8e4bf0673cfd5499a0582163448ac347114ad10"
+    },
     "primo-explore-proxy-borrower": {
       "version": "0.0.1",
       "from": "bclibraries/primo-explore-proxy-borrower",
