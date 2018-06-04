@@ -10,7 +10,7 @@
     "primo-explore-bc-permalink": {
       "version": "0.0.1",
       "from": "git+ssh://git@git.bc.edu:7999/bcl/primo-explore-bc-permalink.git",
-      "resolved": "git+ssh://git@git.bc.edu:7999/bcl/primo-explore-bc-permalink.git#b8e4bf0673cfd5499a0582163448ac347114ad10"
+      "resolved": "git+ssh://git@git.bc.edu:7999/bcl/primo-explore-bc-permalink.git#f10ce2d694274bbc9eab5264e733eb7833f160c2"
     },
     "primo-explore-proxy-borrower": {
       "version": "0.0.1",
