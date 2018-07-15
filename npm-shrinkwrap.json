@@ -1,21 +1,24 @@
 {
   "name": "primo-explore-bclib-new",
   "version": "0.0.1",
+  "lockfileVersion": 1,
+  "requires": true,
   "dependencies": {
     "primo-explore-bc-header": {
-      "version": "0.0.1",
-      "from": "bclibraries/primo-explore-bc-header",
-      "resolved": "git://github.com/bclibraries/primo-explore-bc-header.git#ce6779ed5221fce0566b5f68c33ec0c431666b05"
+      "version": "git://github.com/bclibraries/primo-explore-bc-header.git#ce6779ed5221fce0566b5f68c33ec0c431666b05",
+      "from": "bclibraries/primo-explore-bc-header"
     },
     "primo-explore-bc-permalink": {
-      "version": "0.0.1",
-      "from": "git+ssh://git@git.bc.edu:7999/bcl/primo-explore-bc-permalink.git",
-      "resolved": "git+ssh://git@git.bc.edu:7999/bcl/primo-explore-bc-permalink.git#f10ce2d694274bbc9eab5264e733eb7833f160c2"
+      "version": "git+ssh://git@git.bc.edu:7999/bcl/primo-explore-bc-permalink.git#f10ce2d694274bbc9eab5264e733eb7833f160c2",
+      "from": "git+ssh://git@git.bc.edu:7999/bcl/primo-explore-bc-permalink.git"
+    },
+    "primo-explore-noresults": {
+      "version": "github:BCLibraries/primo-explore-noresults#de70ed7ee0814ddd71664c65ec687a09aca0cd1d",
+      "from": "github:BCLibraries/primo-explore-noresults"
     },
     "primo-explore-proxy-borrower": {
-      "version": "0.0.1",
-      "from": "bclibraries/primo-explore-proxy-borrower",
-      "resolved": "git://github.com/bclibraries/primo-explore-proxy-borrower.git#c2a9b978f9d969f1363fe418307e4fcffe1749c6"
+      "version": "git://github.com/bclibraries/primo-explore-proxy-borrower.git#c2a9b978f9d969f1363fe418307e4fcffe1749c6",
+      "from": "bclibraries/primo-explore-proxy-borrower"
     }
   }
 }

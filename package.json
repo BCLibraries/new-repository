@@ -18,6 +18,7 @@
   "dependencies": {
     "primo-explore-bc-header": "github:bclibraries/primo-explore-bc-header",
     "primo-explore-bc-permalink": "git+ssh://git@git.bc.edu:7999/bcl/primo-explore-bc-permalink.git",
+    "primo-explore-noresults": "github:BCLibraries/primo-explore-noresults",
     "primo-explore-proxy-borrower": "github:bclibraries/primo-explore-proxy-borrower"
   }
 }

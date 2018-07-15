@@ -3,4 +3,5 @@ var app = angular.module('viewCustom', [
     'bc-header',
     'bc-proxy',
     'bc-permalink',
+    'bc-noresults',
 ]);
