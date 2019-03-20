@@ -6,7 +6,8 @@ var app = angular.module('viewCustom', [
     'bc-permalink',
     'bc-search-collections',
     'bc-gallery-item',
-    'bc-browzine',
+    'bc-availability',
+    'hathiTrustAvailability',
 ]);
 window.browzine = {
     api: "https://public-api.thirdiron.com/public/v1/libraries/XXX",
