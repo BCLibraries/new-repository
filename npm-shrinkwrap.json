@@ -5,7 +5,7 @@
     "requires": true,
     "dependencies": {
         "primo-explore-bc-browzine": {
-            "version": "github:BCLibraries/primo-explore-bc-browzine#cff72ed278069fb131e0732b4412ab76067d300a"
+            "version": "github:BCLibraries/primo-explore-bc-availability#003a547c77b79fa2e998d686576eda2651756e35"
         },
         "primo-explore-bc-header": {
             "version": "github:BCLibraries/primo-explore-bc-header#ce6779ed5221fce0566b5f68c33ec0c431666b05"
@@ -22,6 +22,11 @@
         "primo-explore-gallery-item": {
             "version": "github:BCLibraries/primo-explore-gallery-item#beb89575cd5053246ef977889dd0290aae7f931e"
         },
+        "primo-explore-hathitrust-availability": {
+            "version": "2.3.0",
+            "resolved": "https://registry.npmjs.org/primo-explore-hathitrust-availability/-/primo-explore-hathitrust-availability-2.3.0.tgz",
+            "integrity": "sha1-8RETyckUj+oQJWGPDWia3KGbWVY="
+        },
         "primo-explore-noresults": {
             "version": "github:BCLibraries/primo-explore-noresults#de70ed7ee0814ddd71664c65ec687a09aca0cd1d"
         },
@@ -29,7 +34,7 @@
             "version": "github:BCLibraries/primo-explore-proxy-borrower#c2a9b978f9d969f1363fe418307e4fcffe1749c6"
         },
         "primo-explore-search-collections": {
-            "version": "github:BCLibraries/primo-explore-search-collections#14320392396ab642c14c4e3ffa72c0a03a00cd2c"
+            "version": "github:BCLibraries/primo-explore-search-collections#dd657150df53b9e627ba7e31c1315bbe6cf1ada9"
         }
     }
 }
