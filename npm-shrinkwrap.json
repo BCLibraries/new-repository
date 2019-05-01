@@ -4,8 +4,8 @@
     "lockfileVersion": 1,
     "requires": true,
     "dependencies": {
-        "primo-explore-bc-browzine": {
-            "version": "github:BCLibraries/primo-explore-bc-availability#003a547c77b79fa2e998d686576eda2651756e35"
+        "primo-explore-bc-availability": {
+            "version": "github:BCLibraries/primo-explore-bc-availability#2be258f6c2121791b7e5583811c2779b97bee49d"
         },
         "primo-explore-bc-header": {
             "version": "github:BCLibraries/primo-explore-bc-header#ce6779ed5221fce0566b5f68c33ec0c431666b05"
