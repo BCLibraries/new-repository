@@ -24,8 +24,7 @@
         "primo-explore-gallery-item": "github:BCLibraries/primo-explore-gallery-item",
         "primo-explore-hathitrust-availability": "^2.5.0",
         "primo-explore-noresults": "github:BCLibraries/primo-explore-noresults",
-        "primo-explore-proxy-borrower": "github:BCLibraries/primo-explore-proxy-borrower",
-        "primo-explore-search-collections": "github:BCLibraries/primo-explore-search-collections"
+        "primo-explore-proxy-borrower": "github:BCLibraries/primo-explore-proxy-borrower"
     },
     "devDependencies": {}
 }

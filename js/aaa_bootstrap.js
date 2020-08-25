@@ -4,7 +4,7 @@ var app = angular.module('viewCustom', [
     'bc-noresults',
     'bc-proxy',
     'bc-permalink',
-    'bc-search-collections',
+//    'bc-search-collections',
     'bc-gallery-item',
     'bc-availability',
     'hathiTrustAvailability',
