@@ -9,7 +9,7 @@
       "from": "github:BCLibraries/primo-explore-bc-availability"
     },
     "primo-explore-bc-header": {
-      "version": "github:BCLibraries/primo-explore-bc-header#bf99bd17d6ba47ecebacc8d7e587333efe3fcaa4",
+      "version": "github:BCLibraries/primo-explore-bc-header#643506087266c5f960dfd1cda63ae0b9db40eff9",
       "from": "github:BCLibraries/primo-explore-bc-header"
     },
     "primo-explore-bc-permalink": {
@@ -21,7 +21,7 @@
       "from": "github:BCLibraries/primo-explore-bc-staging"
     },
     "primo-explore-bottom-toolbar": {
-      "version": "github:BCLibraries/primo-explore-bottom-toolbar#9852f9e66a5f1fa707dfcec79b740d449ecadba5",
+      "version": "github:BCLibraries/primo-explore-bottom-toolbar#2513eaf132821a9c2d547ae6cf72b7a7cfff9738",
       "from": "github:BCLibraries/primo-explore-bottom-toolbar"
     },
     "primo-explore-gallery-item": {
@@ -29,9 +29,9 @@
       "from": "github:BCLibraries/primo-explore-gallery-item"
     },
     "primo-explore-hathitrust-availability": {
-      "version": "2.5.0",
-      "resolved": "https://registry.npmjs.org/primo-explore-hathitrust-availability/-/primo-explore-hathitrust-availability-2.5.0.tgz",
-      "integrity": "sha512-uttOcwiJJlYXQ9zlPjbeNfPV3aUxM5z7/u8I6x0QiAQa0o94CLhQaO05ODNNYohGKIAoHylsKi65s3lKvaOT5A=="
+      "version": "2.7.0",
+      "resolved": "https://registry.npmjs.org/primo-explore-hathitrust-availability/-/primo-explore-hathitrust-availability-2.7.0.tgz",
+      "integrity": "sha512-tkRFh0XHrJ8l/NKwenEkPsncYdtsR1vIrU2mb5T/qXpDezfScpnAhyi8uEqX0ofsAqX4S6RnlzCKoqeOz2rSRA=="
     },
     "primo-explore-noresults": {
       "version": "github:BCLibraries/primo-explore-noresults#5a4453c4b456b6033d7c077d6bb189f22b7473f9",

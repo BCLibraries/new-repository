@@ -19,10 +19,10 @@
         "primo-explore-bc-availability": "github:BCLibraries/primo-explore-bc-availability",
         "primo-explore-bc-header": "github:BCLibraries/primo-explore-bc-header",
         "primo-explore-bc-permalink": "git+ssh://git@git.bc.edu:7999/bcl/primo-explore-bc-permalink.git",
-        "primo-explore-bc-staging": "BCLibraries/primo-explore-bc-staging",
+        "primo-explore-bc-staging": "github:BCLibraries/primo-explore-bc-staging",
         "primo-explore-bottom-toolbar": "github:BCLibraries/primo-explore-bottom-toolbar",
         "primo-explore-gallery-item": "github:BCLibraries/primo-explore-gallery-item",
-        "primo-explore-hathitrust-availability": "^2.5.0",
+        "primo-explore-hathitrust-availability": "^2.7.0",
         "primo-explore-noresults": "github:BCLibraries/primo-explore-noresults",
         "primo-explore-proxy-borrower": "github:BCLibraries/primo-explore-proxy-borrower"
     },
